@@ -27,5 +27,4 @@ The dataset includes the following attributes:
 1. Install the required libraries: `pip install -r requirements.txt`
 2. Run the script: `python car_purchase_prediction.py`
 
-## Author
-Dr. Ryan Ahmed @STEMplicity
+
